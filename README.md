@@ -13,4 +13,4 @@ Responsive for all devices, build using HTML, CSS, and javascript.
 
 # Demo of App
 
-![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Music Player Desktop Demo](https://github.com/sumitmalakar25/Music-Player/assets/106821900/ce730f76-3a79-4578-a901-04a65ea59ba1)
